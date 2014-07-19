@@ -1,4 +1,4 @@
-#+TITLE:Southwest Slopes and Plains Eco-social Observatory (New South Wales, Australia). 
+#+TITLE:Southwest Slopes and Plains Ecosocial Observatory (New South Wales, Australia). 
 #+AUTHOR: Ivan Hanigan
 #+email: ivan.hanigan@anu.edu.au
 #+LaTeX_CLASS: article
