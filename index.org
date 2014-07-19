@@ -1,0 +1,33 @@
+#+TITLE:Southwest Slopes and Plains Eco-social observatory (New South Wales, Australia). 
+#+AUTHOR: Ivan Hanigan
+#+email: ivan.hanigan@anu.edu.au
+#+LaTeX_CLASS: article
+#+LaTeX_CLASS_OPTIONS: [a4paper]
+#+LATEX: \tableofcontents
+-----
+
+* Introduction
+All societies can be conceptualised as eco-social systems in which
+social processes continually interact with numerous ecological factors
+(which themselves interact). All societies also create 'eco-social'
+observatories which survey and seek to influence the future.
+
+Though the structure, formality and effectiveness of these
+observatories varies in essence functioning observatories generate 
+policy options which can then be followed in ways which maximise (or at
+least preserve collective well-being). 
+
+However, if ecological constraints are too severe (such as the
+approaching limits of ecosystem services and life support systems, or
+an excessive energy cost), then consequences can include defective
+predictions and inappropriate (or ineffectual) policies. Political
+interference can also impair such observatories. Such failures of
+self-correction may generate positive feedbacks leading to tipping
+points beyond which human well-being declines, particularly if
+ecological constraints continue to worsen.
+
+* Background
+* Methods
+* Results
+* Discussion
+* Conclusions
